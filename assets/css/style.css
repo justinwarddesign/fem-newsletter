@@ -69,7 +69,7 @@ h1{
     position: absolute;
     left: -2rem;
     top: -2px;
-    background: url(/assets/images/icon-list.svg) no-repeat;
+    background: url(./assets/images/icon-list.svg) no-repeat;
 }
 form{
     position: relative;
